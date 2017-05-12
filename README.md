@@ -1,2 +1,2 @@
-# frend-latest-app
-This is latest one
+# frend-app
+This is frend-app.
